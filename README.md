@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Omkar Biradar</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | Problem Solver I’m a web developer who loves building cool, user-friendly apps with the MERN stack. I’m always learning new things, especially around data structures and algorithms, to solve tough problems. I’m passionate about collaborating on open-source projects and constantly looking for ways to grow and improve in tech.</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack | Problem Solver <br> I’m a web developer who loves building cool, user-friendly apps with the MERN stack. I’m always learning new things, especially around data structures and algorithms, to solve tough problems. I’m passionate about collaborating on open-source projects and constantly looking for ways to grow and improve in tech.</h3>
 
 - 🔭 I’m currently working on [SamkuService](https://samku-project1.vercel.app/)
 
